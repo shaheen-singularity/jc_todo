@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jc Todo</string>
+    <string name="todo_list">ToDo List</string>
+</resources>
